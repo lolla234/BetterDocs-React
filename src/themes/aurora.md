@@ -2,7 +2,7 @@
 title: Aurora
 author: Tropix126
 description: A cozy dark theme with blurred elements and gradients.
-download: https://github.com/Tropix126/BetterDiscordStuff/blob/master/aurora/Aurora.theme.css
+download: https://i.kym-cdn.com/photos/images/original/000/879/463/96d.png
 github_profile_url: https://github.com/Tropix126/
 github_source_url: https://github.com/Tropix126/BetterDiscordStuff/tree/master/aurora
 github_issue_url: https://github.com/Tropix126/BetterDiscordStuff/issues
